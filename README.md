@@ -1,0 +1,2 @@
+# AutoWriteGoogleSpreadSheetverTextbox
+Google Spread Sheetに自動的に、ユーザー名・データを入力してくれるプログラムのテキストボックスバージョンです。
